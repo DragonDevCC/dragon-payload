@@ -2019,7 +2019,7 @@
   resolved "https://registry.yarnpkg.com/@nolyfill/is-core-module/-/is-core-module-1.0.39.tgz#3dc35ba0f1e66b403c00b39344f870298ebb1c8e"
   integrity sha512-nn5ozdjYQpUCZlWGuxcJY/KpxkWQs4DcbMCmKojjyrYDEAGy4Ce19NN4v5MduafTwJlbKc99UA8YhSVqq9yPZA==
 
-"@payloadcms/db-postgres@^3.39.1":
+"@payloadcms/db-postgres@^3.40.0":
   version "3.58.0"
   resolved "https://registry.yarnpkg.com/@payloadcms/db-postgres/-/db-postgres-3.58.0.tgz#7d478b14cf1e137f95c9f03c45321ab9a6b73d35"
   integrity sha512-btLC9W2Jycl0an+C4wSBTzLlTe1ZLEglR4CP8ldVizqiX92oXFFGUxyLo7PZHiM03YS5WRB6DTB21sBtMGqv8A==
@@ -2063,7 +2063,7 @@
     ts-essentials "10.0.3"
     tsx "4.19.2"
 
-"@payloadcms/next@^3.38.0":
+"@payloadcms/next@^3.39.1":
   version "3.58.0"
   resolved "https://registry.yarnpkg.com/@payloadcms/next/-/next-3.58.0.tgz#1109fc62bc360290d9b4f93acdf20adf26c13029"
   integrity sha512-z6akwPHNz/O/9n1OcY9yQBBLbYqmjzzueeT9EG8rW0L8a1oaXx+5Poed1vzdhXZGtTccLtcpJwMKY06QalqL9A==
@@ -2083,7 +2083,7 @@
     sass "1.77.4"
     uuid "10.0.0"
 
-"@payloadcms/payload-cloud@^3.39.1":
+"@payloadcms/payload-cloud@^3.40.0":
   version "3.58.0"
   resolved "https://registry.yarnpkg.com/@payloadcms/payload-cloud/-/payload-cloud-3.58.0.tgz#ca3d4905a3ad6e5718757a1362d3bf1684f872c3"
   integrity sha512-xOitlck8++cEWADlgicoTbPX6JKmB7Brh0Y9PSv4lZUId9MmgbhKUGMXOPvnkzCg19p38COfDuQ5iZQLSLOrRQ==
@@ -2096,7 +2096,7 @@
     amazon-cognito-identity-js "^6.1.2"
     nodemailer "6.9.16"
 
-"@payloadcms/richtext-lexical@^3.39.1":
+"@payloadcms/richtext-lexical@^3.40.0":
   version "3.58.0"
   resolved "https://registry.yarnpkg.com/@payloadcms/richtext-lexical/-/richtext-lexical-3.58.0.tgz#46617ee0b191402bbd1658ee2dcdca460b04509a"
   integrity sha512-VX+l3rgnpXZuoHgqePlHYaoeQD1efGl/B9SuP9bXM30Iq3kl0Q+8rtCQB40pgO3kZme+gK5wtZmmRwQ7ro4+sQ==
@@ -5785,7 +5785,7 @@ path-type@^4.0.0:
   resolved "https://registry.yarnpkg.com/path-type/-/path-type-4.0.0.tgz#84ed01c0a7ba380afe09d90a8c180dcd9d03043b"
   integrity sha512-gDKb8aZMDeD/tZWs9P6+q0J9Mwkdl6xMV8TjnGP3qJVJ06bdMgkbBlLU8IdfOsIsFz2BW1rNVT3XuNEl8zPAvw==
 
-payload@^3.38.0:
+payload@^3.39.1:
   version "3.58.0"
   resolved "https://registry.yarnpkg.com/payload/-/payload-3.58.0.tgz#a58ea42f7fbe9a51ca9626536274ea5e3bd653f2"
   integrity sha512-r0vuhPkpIA72zEgnJeVPbxFjI7p47tCrfFXkyJTo4IlOPGhCE1o/cJHC3rn6id8OCJvK35oBVkkTJ3wPMVIWCQ==
